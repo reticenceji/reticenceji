@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on smart contract security.
+- 🌱 My skills: [![My Skills](https://skillicons.dev/icons?i=c,rust,go,py,solidity,linux)](https://skillicons.dev)
+- ✨ My notes: 
