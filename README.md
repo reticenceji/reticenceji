@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on smart contract security.
-- 🌱 My skills: [![My Skills](https://skillicons.dev/icons?i=c,rust,go,py,solidity,linux)](https://skillicons.dev)
-- ✨ My notes: 
+- 🌱 My skills: [![My Skills](https://skillicons.dev/icons?i=c,rust,go,py,solidity,linux,scala)](https://skillicons.dev)
+- ✨ My notes: [https://reticenceji.github.io/](https://reticenceji.github.io/)
